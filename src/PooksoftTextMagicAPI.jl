@@ -17,4 +17,7 @@ module PooksoftTextMagicAPI
     export register_file_store_watcher
     export unregister_file_store_watcher
 
+    # what is going on?
+    # ...
+
 end # module
